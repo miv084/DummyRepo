@@ -2,4 +2,5 @@ DummyRepo
 =========
 
 My repository for testing
-and nothing else will be here. 
+and nothing else will be here.
+tento radek jsme pridali nakonec 
